@@ -4,7 +4,8 @@
 
 |Where|What|
 |:---|:---|
-|@Work: Java, C#, SQL| @127.0.0.1: Anything productivity/ game dev related:<br/>   WSL, MacOS, ML, Python, Godot/Unity,  Procreate, Kritas, Blender|
+|@Work| Java, C#, SQL|
+| @127.0.0.1|Anything productivity/ game dev related:<br/>   WSL, MacOS, ML, Python, Godot/Unity,  Procreate, Kritas, Blender|
 
 - 💞️ I’m looking to collaborate on C lang based projects
 - 📫 How to reach me: the same alias, at-the the gmail.
